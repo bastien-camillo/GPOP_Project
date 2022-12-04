@@ -1,5 +1,5 @@
 # @coding: utf-8
-# @version: Python 3.8.5
+# @version: Python 3.8.4
 # @date: 2020-11-23
 # @author: bastien camillo
 # @project: GPOP - Genetic Population
